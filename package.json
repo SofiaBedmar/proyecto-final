@@ -9,7 +9,6 @@
     "watch-css": "nodemon -e scss -x \"npm run build-css\""
   },
 
-
   "devDependencies": {
     "node-sass": "^7.0.1",
     "nodemon": "^2.0.15"
