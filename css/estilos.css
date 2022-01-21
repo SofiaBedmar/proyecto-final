@@ -1,0 +1,75 @@
+body{
+	background-color: #fff;
+}
+
+.titulo{
+	color: black;
+	font-size: 150px;
+	font-weight: bold;
+	position: absolute;
+	top: 200px;
+	left: 25%;
+}
+
+.parrafo{
+	color: black;
+	position: absolute;
+	font-size: 18px;
+	font-weight: bold;
+	top: 370px;
+	left: 27.5%;
+}
+
+.size{
+	margin: 10px 20px 0 20px;
+}
+
+.card{
+	top: 30px;
+}
+
+.carousel-inner{
+	width: 100%;
+    max-height: 100%;
+	bottom: -5px;
+}
+
+.form-position{
+	margin: 30px 20px 0 20px;
+}
+
+.cards-publicaciones{
+	margin: -40px 20px 0 20px;
+}
+
+.contenedor{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+.img-conectarte{
+	max-width: 140px;
+	max-height: 60px;
+}
+
+.carouselContainer{
+	z-index: 1;
+	margin-top: -243px;
+}
+
+.titleContainer{
+	position: relative;
+	background-color: rgba(226, 212, 212, 0.719);
+	z-index: 2;
+	top: 110px;
+	padding: 40px;
+}
+
+.boton-contenedor{
+	margin-right: 15px;
+}
+
+.margin{
+	margin-bottom: 50px;
+}
